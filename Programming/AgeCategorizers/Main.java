@@ -31,8 +31,11 @@ public class Main {
 			System.out.println("Teen");
 		else if(age>=20 && age<=59)
 				System.out.println("Adult");
-		else
+		else if(age>=60)
 			System.out.println("Senior");
+		else
+			System.out.println("Invalid Age");
+
 	}
 
 	public static void main(String[] args)
