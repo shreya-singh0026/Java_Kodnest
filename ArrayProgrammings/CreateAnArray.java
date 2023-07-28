@@ -21,9 +21,15 @@ public class CreateAnIntegerArray {
 		}
 		System.out.print("Print Array Integer : ");
 
+		/*   Traditional Method
 		for(int i=0;i<arr.length;i++) {
 			System.out.print(arr[i]+ " ");
 		}
-	
+	    */
+		for(int i:arr) {
+			System.out.print(i+ " ");
+		}
+		
+		
 	}
 }
