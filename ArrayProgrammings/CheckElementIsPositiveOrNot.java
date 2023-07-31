@@ -1,3 +1,10 @@
+/*
+Write a java program to take array length as input from user and create an integer array
+Create an integer array and store elements into the array by taking elementsas input from keyboard. 
+Print the array contents on to console if array content is positive.
+*/
+
+
 package com.kodnest.arrays.level1;
 
 import java.util.Scanner;
