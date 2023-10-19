@@ -24,6 +24,11 @@ public class ParentChildApp {
 		p.hobby();
 		p.cry();   //can't access because it is child method  
 		*/
+
+				
+		//parent reference can be used to hold child object bt child reference can't be used to hold parent object
+		//Child c=new Parent()//not possible
+
 	}
 
 }
