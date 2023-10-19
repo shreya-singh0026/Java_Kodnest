@@ -1,0 +1,11 @@
+Qno:1  Hybrid Inheritance
+PersonApp
+                  Person
+       ^                                      ^            
+       |                                      |
+       |                                      |
+    Student                                Teacher
+^           ^                            ^          ^
+|           |                            |          |
+|           |                            |          |
+EngStudent  BcomStudent              JavaTeacher  TestingTeacher
