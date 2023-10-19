@@ -1,3 +1,6 @@
+
+
+
 Qno :1--> Why not Supported Multiple Inheritance?
 
 Ans:- It leads to diamond shape problem which in turns would lead to ambiguity.
