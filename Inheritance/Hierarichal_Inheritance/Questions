@@ -9,3 +9,9 @@ EmployeeApplication
 
 
 Qno:2
+RobotApp
+                   Robo
+   ^             ^              ^
+   |             |              |
+   |             |              |
+ChefRobo   TeacherRobo     DriverRobo
