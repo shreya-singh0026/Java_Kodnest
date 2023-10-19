@@ -1,0 +1,11 @@
+Qno:1  Hierarichal Inheritance
+EmployeeApplication
+                  Employee
+       ^         ^            ^             ^            
+       |         |            |             |
+       |         |            |             |
+  Developer    Manager   Test_Engineer    Team_Lead
+
+
+
+Qno:2
